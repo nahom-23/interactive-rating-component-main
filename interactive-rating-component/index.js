@@ -1,5 +1,3 @@
-// var button = document.getElementById("btn")
-
 function select(value) {
     var buttons = document.getElementsByTagName('button');
     
